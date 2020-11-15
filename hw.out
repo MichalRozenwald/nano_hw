@@ -1,0 +1,5 @@
+#FILE	SEQUENCE	START	END	STRAND	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT	RESISTANCE
+/mnt/local/vse2020/home/filip_chiro/assembly/assembly.fasta	1	3355836	3358985	+	MEXF	1-3150/3180	========/======	4/8	98.93	84.81	megares	MEG_3911	Multi-compound:Drug_and_biocide_resistance:Drug_and_biocide_RND_efflux_pumps:MEXF	
+/mnt/local/vse2020/home/filip_chiro/assembly/assembly.fasta	1	4088983	4089650	+	CPXAR	1-668/678	========/======	9/12	97.64	80.27	megares	MEG_2117	Multi-compound:Drug_and_biocide_resistance:Drug_and_biocide_RND_efflux_regulator:CPXAR	
+/mnt/local/vse2020/home/filip_chiro/assembly/assembly.fasta	1	4616917	4619987	+	TTGB	1-3071/3153	========/======	18/38	96.80	80.32	megares	MEG_7289	Multi-compound:Drug_and_biocide_resistance:Drug_and_biocide_RND_efflux_pumps:TTGB	
+/mnt/local/vse2020/home/filip_chiro/assembly/assembly.fasta	1	4620048	4621445	+	EMHC	1-1398/1461	========/======	3/8	95.41	80.67	megares	MEG_2718	Multi-compound:Drug_and_biocide_resistance:Drug_and_biocide_RND_efflux_pumps:EMHC	
